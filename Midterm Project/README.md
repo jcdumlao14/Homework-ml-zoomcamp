@@ -6,7 +6,7 @@ This project performed as part of the _ML Zoomcamp Course_, Midterm Project. Thi
 Insurance Claim Prediction help to claimed their _Health Insurance_ predicting which customers may interested to claimed health insurance.
 
 ## Dataset Reference:
-This Model was built using [“Sample Insurance Claim Prediction Dataset”-kaggle Dataset](https://bit.ly/3bEwA5D).
+This Model was built using [“Sample Insurance Claim Prediction Dataset”-kaggle Dataset](https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset#:~:text=1%2C%20no%3D0-,Insurance,-Usability).
 
 ## Data Description
 Following is the features used for the prediction model. The _Insuranceclaim_ shows the target value.
@@ -23,7 +23,7 @@ Following is the features used for the prediction model. The _Insuranceclaim_ sh
 |charges | individual medical costs billed by health insurance|
 |insuranceclaim | yes=1, no=0|
 
-This is ["Sample Insurance Claim Prediction Dataset"]((https://bit.ly/3bEwA5D) which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
+This is ["Sample Insurance Claim Prediction Dataset"](https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset#:~:text=1%2C%20no%3D0-,Insurance,-Usability) which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
 
 ## Features Characteristics
 Features characteristics are provided in [DataAnalysis](https://github.com/jcdumlao14/Homework-ml-zoomcamp/blob/main/Midterm%20Project/DataAnalysis.ipynb)
