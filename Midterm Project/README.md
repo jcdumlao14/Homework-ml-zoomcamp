@@ -26,7 +26,7 @@ Following is the features used for the prediction model. The _Insuranceclaim_ sh
 This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
 
 ## Features Characteristics
-Features characteristics are provided in [DataAnalysis](https://bit.ly/)
+Features characteristics are provided in [DataAnalysis](https://github.com/jcdumlao14/Homework-ml-zoomcamp/blob/main/Midterm%20Project/DataAnalysis.ipynb)
 
 **1. Features Type**
 |**Categorical**|**Numerical**|
@@ -69,9 +69,6 @@ We will use the following classification models to test our theory of whether th
 * [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/python/index.html)
 
-* [XGBoost](https://xgboost.readthedocs.io/en/latest/python/index.html)
-
-
 
 ## FILE DESCRIPTION
 Folder Midterm Project includes following files:
@@ -87,6 +84,8 @@ Folder Midterm Project includes following files:
 |predict_test.py|Testing the model|
 |Pipfile & Pipfile.lock|Python virtual environment, Pipenv file|
 |Dockerfile|Environment management, Docker, for running file|
+
+RAW DATA-insurance2.csv(https://raw.githubusercontent.com/jcdumlao14/Homework-ml-zoomcamp/main/insurance2.csv)
 
 # RUNNING INSTRUCTION
 1. Copy scripts (train, predict and predict_test), pipenv file and Dockerfile to a folder
