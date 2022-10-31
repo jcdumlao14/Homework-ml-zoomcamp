@@ -85,7 +85,7 @@ Folder Midterm Project includes following files:
 |Pipfile & Pipfile.lock|Python virtual environment, Pipenv file|
 |Dockerfile|Environment management, Docker, for running file|
 
-RAW DATA-insurance2.csv(https://raw.githubusercontent.com/jcdumlao14/Homework-ml-zoomcamp/main/insurance2.csv)
+[RAW DATA -insurance2.csv](https://raw.githubusercontent.com/jcdumlao14/Homework-ml-zoomcamp/main/insurance2.csv)
 
 # RUNNING INSTRUCTION
 1. Copy scripts (train, predict and predict_test), pipenv file and Dockerfile to a folder
