@@ -23,7 +23,7 @@ Following is the features used for the prediction model. The _Insuranceclaim_ sh
 |charges | individual medical costs billed by health insurance|
 |insuranceclaim | yes=1, no=0|
 
-This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
+This is ["Sample Insurance Claim Prediction Dataset"]((https://bit.ly/3bEwA5D) which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
 
 ## Features Characteristics
 Features characteristics are provided in [DataAnalysis](https://github.com/jcdumlao14/Homework-ml-zoomcamp/blob/main/Midterm%20Project/DataAnalysis.ipynb)
