@@ -86,7 +86,9 @@ Folder Midterm Project includes following files:
 |Dockerfile|Environment management, Docker, for running file|
 
 [RAW DATA -insurance2.csv](https://raw.githubusercontent.com/jcdumlao14/Homework-ml-zoomcamp/main/insurance2.csv)
+
 [notebook.ipynb](https://github.com/jcdumlao14/Homework-ml-zoomcamp/blob/main/Midterm%20Project/notebook.ipynb)
+
 
 # RUNNING INSTRUCTION
 1. Copy scripts (train, predict and predict_test), pipenv file and Dockerfile to a folder
