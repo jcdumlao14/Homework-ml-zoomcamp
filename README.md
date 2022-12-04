@@ -1,7 +1,5 @@
-# Homework-ml-zoomcamp
+# Homework and Projects-ml-zoomcamp2022
 
-01_Homework_ml_zoomcamp_2022
+This repository involves the codes for the Homework and Projects of ML-zoomcamp (October 2022 - January 2023)
 
-02_Homework_Housing_Price_Prediction_2022
-
-03_Homework_housingPriceClassification
+This course conducted by Alexey Grigorev
