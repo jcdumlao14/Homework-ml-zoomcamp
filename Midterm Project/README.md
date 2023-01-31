@@ -3,7 +3,7 @@
 This project performed as part of the _ML Zoomcamp Course_, Midterm Project. This course is conducted by [Alexey Grigorev](https://bit.ly/3BxeAoB)
 
 ## Insurance Claim Prediction
-Insurance Claim Prediction help to claimed their _Health Insurance_ predicting which customers may interested to claimed health insurance.
+Insurance Claim Prediction help to claim their Health Insurance predicting which customers may be interested in claimed health insurance.
 
 ## Dataset Reference:
 This Model was built using [“Sample Insurance Claim Prediction Dataset”-kaggle Dataset](https://www.kaggle.com/datasets/easonlai/sample-insurance-claim-prediction-dataset#:~:text=1%2C%20no%3D0-,Insurance,-Usability).
